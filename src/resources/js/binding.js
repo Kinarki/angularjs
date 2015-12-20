@@ -1,5 +1,5 @@
 /* use strict */
-var app = angular.module('MyApp', []);
+var app = angular.module('MyApp',[]);
 app.controller("MainCtrl", function ($scope)
 {
 	$scope.data = {
